@@ -1,0 +1,156 @@
+Wed May 30, 2012 12:44:13                              PRACTITIONER LIST                                                PAGE #    1
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+DAVID BRIA SMITH              1699148-1       253 804-0528          253 261-0013 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  05-24-2012  60       EST 60 MIN      9:30am     60
+
+KEVIN J    MCCAULEY           1742650-1       425 283-6011          425 283-6011 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  05-24-2012  60       EST 60 MIN     10:15am     60
+
+JULIE G    CROWDER            1765549-1       253 335-7892 CELL     253 929-6854
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  05-09-2012  60       EST 60 MIN     11:45am     60
+
+TINA L     WATERS             1771827-1       425 255-2674          425 444-5000 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  05-16-2012  60       EST 60 MIN     12:30pm     60
+
+BENJAMIN " FISCHER            1459351-1       206 543-5081          714 642-4069 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  12-28-2011  60       EST 60 MIN      1:15pm     60
+
+KELLY I    NELSON             1780544-1       253 638-1371          425 327-2286 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  05-22-2012  60       EST 60 MIN      2:00pm     60
+
+BRANDI     SNYDER             1469753-2       253 361-5421          206 406-0180 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  03-14-2012  60       EST 60 MIN      4:45pm     60
+
+BAILEY M   SNYDER             1469753-1       253 361-5421          206 406-0180 CELL
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  03-14-2012  60       EST 60 MIN      5:30pm     60
+
+JONATHAN M WINDLE             1399211-1       425 502-5637
+                         37   P KELLY BOUNKEUA LMHC             05-30-2012  12-19-2011  60       EST 60 MIN      6:15pm     60
+
+MARY E     WENDLING           1470464-1       206 772-7709          206 240-9343 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-16-2012  30       MED MGMT       10:30am     30
+
+ASHLEY V   PUDWILL            1695926-1       253 880-8349          253 880-8349 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-07-2012  30       MED MGMT       11:00am     30
+
+DONNA J    LEMMON             1260551-1       425 228-7533          206 235-9519 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-17-2012  30       MED MGMT       11:30am     30
+
+LUZ M      ARANGO             1131517-1       206 244-2890          206 244-2890
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-24-2012  30       MED MGMT       12:00n      30
+
+TIMOTHY "T CHAMBERS           1567039-1       206 510-8994 CELL     206 510-8994 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-14-2012  30       MED MGMT       12:30pm     30
+
+GEORGE P   KARPINSKI          1490745-1       425 572-0252          425 531-2762 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-08-2012  30       MED MGMT        1:00pm     30
+
+PATRICIA D TARLI              1494913-1       253 802-3493          253 802-3493
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-09-2012  30       MED MGMT        1:30pm     30
+
+SARAH E    CASKEY             1776049-1       425 228-6700          425 941-8099 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-17-2012  NP       NEW PATIENT     2:30pm     90
+
+TIMOTHY "T CHAMBERS           1567039-1       206 510-8994 CELL     206 510-8994 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-29-2012  30       MED MGMT        4:00pm     30
+
+
+
+
+
+
+
+Wed May 30, 2012 12:44:13                              PRACTITIONER LIST                                                PAGE #    2
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+WILLIAM "S MCCUTCHEON         1304323-1       425 765-0980          425 765-0980
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-17-2012  30       MED MGMT        4:30pm     30
+
+KRISTINA " ACHZENICK          1050557-1       425 427-8199          425 246-8363 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-15-2012  60       EST 60 MIN      5:00pm     60
+
+CHRIS J    BRAHAM             1586537-1       206 323-2925          206 276-0624 CELL
+                         41   NANCY MARTIN ARNP                 05-30-2012  05-11-2012  30       MED MGMT        6:00pm     30
+
+TONI M     KINGSLEY           1585439-1       425 207-8508          425 207-8508
+                         54   TRINA TOBEY PHD                   05-30-2012  05-11-2012  60       EST 60 MIN      9:00am     60
+
+ASHLEY V   PUDWILL            1695926-1       253 880-8349          253 880-8349 CELL
+                         54   TRINA TOBEY PHD                   05-30-2012  05-07-2012  60       EST 60 MIN     10:00am     60
+
+TAYLOR J   SEEK               1780111-1       425 445-2893          425 445-2893
+                         54   TRINA TOBEY PHD                   05-30-2012  05-29-2012  60       EST 60 MIN     11:00am     60
+
+AIMEE A    FOUCHE             1704039-1       510 277-2355          510 277-2355 CELL
+                         54   TRINA TOBEY PHD                   05-30-2012  05-09-2012  60       EST 60 MIN     12:00n      60
+
+FARREN D   SHIRAZI            1618939-1       425 301-3591          425 301-3591
+                         54   TRINA TOBEY PHD                   05-30-2012  05-29-2012  60       EST 60 MIN      2:00pm     60
+
+ZACHARY T  STARK              1639437-1       425 761-3219          425 761-3219
+                         54   TRINA TOBEY PHD                   05-30-2012  05-03-2012  60       EST 60 MIN      3:00pm     60
+
+ESTELA P   MENDEZ             1729148-1       253 520-3613          425 351-3590 CELL
+                         54   TRINA TOBEY PHD                   05-30-2012  04-04-2012  60       EST 60 MIN      4:00pm     60
+
+CARRI J    DUNCAN             1637741-1       206 419-6910          206 419-6910
+                         58   HEATHER E GIBB PSYD               05-30-2012  05-22-2012  60       EST 60 MIN      1:30pm     60
+
+JAKE T     OLSON              1688734-1       253 631-2096          206 498-2457 CELL
+                         58   HEATHER E GIBB PSYD               05-30-2012  05-17-2012  60       EST 60 MIN      3:30pm     60
+
+ASHLEY M   MOUNT              1320257-1       253 250-7175          253 250-7175 CELL
+                         58   HEATHER E GIBB PSYD               05-30-2012  05-16-2012  60       EST 60 MIN      4:30pm     60
+
+SHANNON R  MCMANIS            1757333-1       253 929-6545          310 330-6901 CELL
+                         58   HEATHER E GIBB PSYD               05-30-2012  05-21-2012  60       EST 60 MIN      5:30pm     60
+
+SARAH J    COHEN              1713126-1       425 444-2650          425 444-2650 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-29-2012  30       MED MGMT        9:30am     30
+
+DAWN       KAUFMAN            1638335-1       425 333-6998          425 633-9212 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  04-25-2012  60       EST 60 MIN     10:00am     60
+
+PATRICIA " SMITH              1684222-1       425 222-7444 YES
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-09-2012  60       EST 60 MIN     11:00am     60
+
+TAWNI A    MABEL              1656335-1       206 949-5719 CELL     206 949-5719 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-16-2012  60       EST 60 MIN     12:00n      60
+
+
+
+
+
+
+
+Wed May 30, 2012 12:44:13                              PRACTITIONER LIST                                                PAGE #    3
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+VIRGINIA " FISHER             1751954-1       425 392-9611          425 681-1966 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-16-2012  60       EST 60 MIN      1:00pm     60
+
+MARISA     JOHNSON            1491841-1       425 306-8380 CELL     425 929-4019
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-18-2012  60       EST 60 MIN      2:00pm     60
+
+BLAINE     BUTLER             1720548-1       253 230-0885          253 230-0885
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-29-2012  30       MED MGMT        3:00pm     30
+
+HAROLD "ED RITCHIE            1744034-1       425 246-3341 CELL     425 246-3341 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-21-2012  30       MED MGMT        3:30pm     30
+
+ANGELA F   LIN                1701848-1       425 313-4761          425 313-4761
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-15-2012  30       MED MGMT        4:00pm     30
+
+JESSE W    JOHNSON            1754451-1       206 932-5754          206 390-5459 CELL
+                         59I  AUDREY CHURCH ARNP                05-30-2012  05-17-2012  30       MED MGMT        4:30pm     30
+

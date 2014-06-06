@@ -1,0 +1,153 @@
+Mon June 25, 2012 11:39:26                             PRACTITIONER LIST                                                PAGE #    1
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+PEGGY J    LAGRONE            1773137-1       206 390-5390          206 390-5390 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-08-2012  60       EST 60 MIN     10:15am     60
+
+JULIE G    CROWDER            1765549-1       253 335-7892 CELL     253 929-6854
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-01-2012  60       EST 60 MIN     11:00am     60
+
+KARI L     ESCOBEDO           1759916-1       206 999-2842          206 999-2842 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-11-2012  60       EST 60 MIN     11:45am     60
+
+ROB        GENTZLER           1727226-1       610 462-0656          610 462-0656 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-19-2012  60       EST 60 MIN     12:30pm     60
+
+MARK A     BRANDEWIE          1647733-1       253 365-3664          253 365-3664 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-13-2012  60       EST 60 MIN      1:15pm     60
+
+LANE K     HUTTON             1639617-1       425 269-6919          425 269-6919
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  05-18-2012  60       EST 60 MIN      2:00pm     60
+
+ALEXA S    ANDERSON           1663962-1       206 653-7317          206 434-5055 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-01-2012  60       EST 60 MIN      2:45pm     60
+
+JENNA R    ESTERS             1710651-1       206 707-6741 CELL     206 707-6741
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-06-2012  60       EST 60 MIN      3:30pm     60
+
+KATRICE    BROADNAX           1739859-1       425 919-2664          425 919-2664 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  04-27-2012  60       EST 60 MIN      4:45pm     60
+
+STACEY J   GEHRKE             1313819-1       425 753-6504          425 753-6504
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  03-16-2012  60       EST 60 MIN      5:30pm     60
+
+LINDA      SINTHUSAN          1735214-1       425 917-0938          425 772-1011 CELL
+                         37   P KELLY BOUNKEUA LMHC             06-22-2012  06-22-2012  60       EST 60 MIN      6:15pm     60
+
+ANDREA R   GAINER             1791455-1       323 309-7091          323 309-7091 CELL
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-04-2012  NP       NEW PATIENT    10:00am     90
+
+HAROLD "NE TUSING             1739311-1       425 736-5713          425 736-5713
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-08-2012  30       MED MGMT       11:30am     30
+
+NILENDU    PAL                1369523-1       425 861-8786          425 205-1228
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-12-2012  30       MED MGMT       12:00n      30
+
+ALIYAH K   LAWSON             1663270-1       425 306-1641          425 802-2402 CELL
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-05-2012  30       MED MGMT       12:30pm     30
+
+WILLIAM "S MCCUTCHEON         1304323-1       425 765-0980          425 765-0980
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-12-2012  30       MED MGMT        1:00pm     30
+
+JOSHUA T   BECKER             482639-1        206 242-9168          206 854-1035 CELL
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-13-2012  30       MED MGMT        1:30pm     30
+
+WENDY      HOHMANN            1262638-1       253 229-4998          425 313-6277
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-13-2012  30       MED MGMT        2:30pm     30
+
+
+
+
+
+
+
+Mon June 25, 2012 11:39:26                             PRACTITIONER LIST                                                PAGE #    2
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+LETA 'JO"  HAYES              1195323-1       206 434-7966          206 392-9690
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-14-2012  30       MED MGMT        3:00pm     30
+
+PHILLIP R  RICCARDO           1633413-1       425 228-2448          206 334-6439 CELL
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-13-2012  60       EST 60 MIN      3:30pm     60
+
+JENNA R    ESTERS             1710651-1       206 707-6741 CELL     206 707-6741
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-06-2012  60       EST 60 MIN      4:30pm     60
+
+MICHELE L  BOWMAN             1520333-1       206 444-0342          206 941-2839
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-08-2012  30       MED MGMT        5:30pm     30
+
+AIMEE FRAN LE                 1418257-1       206 229-0707 CELL     425 656-5140
+                         41   NANCY MARTIN ARNP                 06-22-2012  06-11-2012  60       EST 60 MIN      6:00pm     60
+
+MEETING                       1773541-1       425 225-5336
+                         54   TRINA TOBEY PHD                   06-22-2012  06-08-2012  60       EST 60 MIN      9:00am     60
+
+CONNIE S   BOMSTEAD           1718445-1       253 277-3618          425 466-5022 CELL
+                         54   TRINA TOBEY PHD                   06-22-2012  05-18-2012  60       EST 60 MIN     10:00am     60
+
+GREGORY L  SHURTZ             1715086-1       206 878-3367          206 261-6631 CELL
+                         54   TRINA TOBEY PHD                   06-22-2012  04-13-2012  60       EST 60 MIN     11:00am     60
+
+MARTA      RICKS              1758646-1       253 277-2157          253 277-2157
+                         54   TRINA TOBEY PHD                   06-22-2012  05-22-2012  60       EST 60 MIN     12:00n      60
+
+DANIELE R  SCHWENK            1544728-1       206 241-1518          206 962-0728
+                         54   TRINA TOBEY PHD                   06-22-2012  06-18-2012  60       EST 60 MIN      1:00pm     60
+
+AMY A      REBMANN            1092254-1       206 353-8138          253 335-8733
+                         54   TRINA TOBEY PHD                   06-22-2012  06-15-2012  60       EST 60 MIN      2:00pm     60
+
+JEANETT    QUINTANILLA        1487422-1       206 778-6407          206 778-6407
+                         54   TRINA TOBEY PHD                   06-22-2012  05-25-2012  60       EST 60 MIN      3:00pm     60
+
+MEETING                       1773541-1       425 225-5336
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-21-2012  60       EST 60 MIN      9:30am     60
+
+MARIEL     AMADOR             1764553-1       425 802-2570 CELL     425 898-0400 WORK
+                         58   HEATHER E GIBB PSYD               06-22-2012  05-25-2012  60       EST 60 MIN     10:30am     60
+
+ALIYAH K   LAWSON             1663270-1       425 306-1641          425 802-2402 CELL
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-05-2012  60       EST 60 MIN     11:30am     60
+
+BROOKE A   DUNHAM             1665908-1       253 981-3901          253 981-3901
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-19-2012  60       EST 60 MIN     12:30pm     60
+
+SARAH A    SEHRT              1756064-1       425 433-8102          253 230-6655 CELL
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-22-2012  60       EST 60 MIN      1:30pm     60
+
+ERIC       CRAMER             1647342-1       425 277-2200          425 830-9138 CELL
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-05-2012  60       EST 60 MIN      2:30pm     60
+
+
+
+
+
+
+
+Mon June 25, 2012 11:39:26                             PRACTITIONER LIST                                                PAGE #    3
+
+FIRST       LAST              ACCT-PAT#       HOME PHONE            WORK PHONE
+                         PRACT. NAME                            APPT DATE   SCHED DATE  TYPE     DESCRIPTION      TIME    LENGTH
+------------------------------------------------------------------------------------------------------------------------------------
+
+ALEXIS M   ANGELL             1775741-1       206 841-9322          206 841-9322 CELL
+                         58   HEATHER E GIBB PSYD               06-22-2012  05-31-2012  60       EST 60 MIN      3:30pm     60
+
+MEETING                       1773541-1       425 225-5336
+                         58   HEATHER E GIBB PSYD               06-22-2012  06-22-2012  60       EST 60 MIN      4:30pm     60
+
+BRITTNAY   HOUSE              1790113-1       425 495-1269
+                         59   AUDREY CHURCH, ARNP               06-22-2012  06-01-2012  NP       NEW PATIENT    10:30am     90
+
+JULIE G    CROWDER            1765549-1       253 335-7892 CELL     253 929-6854
+                         59   AUDREY CHURCH, ARNP               06-22-2012  06-01-2012  60       EST 60 MIN     12:00n      60
+
+JAMES L    HSU                1792114-1       253 277-2352          253 451-0154
+                         59   AUDREY CHURCH, ARNP               06-22-2012  06-05-2012  NP       NEW PATIENT     1:00pm     90
+
